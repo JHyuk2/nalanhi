@@ -1,3 +1,5 @@
+# 나중에 클래스로 정리하고, 작업하자.
+
 import requests
 import json
 import os
